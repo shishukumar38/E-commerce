@@ -1,0 +1,76 @@
+h1{
+  color: red;
+}
+
+.link_dec{
+  text-decoration: none;
+}
+.slide-height{
+  height: 200px;
+}
+.hov:hover {
+   background-color:rgb(40,40,40);
+   text-decoration: underline;
+}
+.imgcls{
+  height: 300px;
+  width: 80%
+}
+.nav-bg{
+  background-color: black;
+}
+.cover{
+  background-size: cover;
+}
+.branname{
+  font-size: 50px;
+}
+
+
+/* scroll */
+.scrolling-wrapper{
+	overflow-x: auto;
+}
+.card-img{
+  height: 200px;
+  width: auto;
+}
+.card-img-top{
+  width: 100px;
+  height: 200px;
+}
+
+.nib:hover{
+
+  background-color:rgb(179,179,179);
+}
+.fas{
+  color: white;
+
+}
+.add{
+  color: blue;
+}
+.fa-search{
+  color: white;
+}
+.usericon{
+  color: white;
+  background-color: black
+
+}
+/* add product page css */
+.addproduct-hadding{
+  font-size:40px;
+
+}
+.hello{
+  color: red;
+}
+
+
+
+
+
+
+/* footer */
